@@ -1,0 +1,20 @@
+# Bazel
+bazel-*
+
+# C++ Compilation
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Generated Assembly
+*.s
+
+# IDEs
+.vscode/
+.idea/
+*.swp
